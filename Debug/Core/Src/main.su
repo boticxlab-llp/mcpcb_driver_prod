@@ -1,0 +1,14 @@
+../Core/Src/main.c:306:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:323:1:__io_putchar	16	static
+../Core/Src/main.c:336:6:color_steps	16	static
+../Core/Src/main.c:353:6:glow_prv	8	static
+../Core/Src/main.c:456:6:glow_prv_inner	8	static
+../Core/Src/main.c:596:5:myAtoi	16	static
+../Core/Src/main.c:614:6:led_pwm_setvalue	16	static
+../Core/Src/main.c:647:5:main	16	static
+../Core/Src/main.c:2780:6:SystemClock_Config	96	static
+../Core/Src/main.c:2825:13:MX_TIM1_Init	80	static
+../Core/Src/main.c:2893:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:2945:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:2979:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:3001:6:Error_Handler	8	static,ignoring_inline_asm
